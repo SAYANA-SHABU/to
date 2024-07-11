@@ -1,0 +1,13 @@
+.logger{
+    border: 1px solid black;
+    margin-top: 20em;
+    padding: 20px;
+    background-color: rgb(95, 102, 175);
+}
+#nav{
+    color: rgb(43, 43, 131);
+}
+body{
+background-color: #290d5e;
+background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
+}
